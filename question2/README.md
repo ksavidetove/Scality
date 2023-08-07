@@ -47,4 +47,4 @@ curl -i -H 'Accept: application/json' -d 'id=2&title=bonjour&author=tristesse&pu
 
 `DELETE http://localhost:3000/api/books/:id`
 
-curl -i -H 'Accept: application/json' -X DELETE http://localhost:3000/api/books/3
+curl -i -H 'Accept: application/json' -X DELETE http://localhost:3000/api/books/2
